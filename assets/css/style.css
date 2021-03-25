@@ -308,6 +308,13 @@ section {
   text-decoration: none;
   color: white;
 }
+.form-va h3{
+  color: #021e4d;
+  text-align: center;
+}
+.form-va input{
+  color: #021e4d;
+}
 .navbar .dropdown .dropdown ul {
   top: 0;
   left: calc(100% - 30px);
